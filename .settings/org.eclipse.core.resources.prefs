@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/qlsbpm/job/process/ProcessDispatcher.java=UTF-8
+encoding//src/com/qlsbpm/job/process/ProcessDispatcherImplService.java=UTF-8
+encoding//src/com/qlsbpm/job/process/ProcessDispatcherImplServiceLocator.java=UTF-8
+encoding//src/com/qlsbpm/job/process/ProcessDispatcherImplServiceSoapBindingStub.java=UTF-8
